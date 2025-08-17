@@ -63,6 +63,12 @@ Results & Insights
 
 Risk and return profiles differ significantly across the chosen tech stocks.
 
+# Visualize the data
+<img width="730" height="276" alt="Screenshot 2025-08-17 at 10 31 15 PM" src="https://github.com/user-attachments/assets/bcef7601-7589-4d36-8d7e-36bc1f5d6c68" />
+
+# Predictions
+<img width="362" height="321" alt="Screenshot 2025-08-17 at 10 29 12 PM" src="https://github.com/user-attachments/assets/aa6d7d5f-ff3d-4334-9c43-5bd5f71a246f" />
+
 Strong correlations exist between some companies.
 
 LSTM provides promising predictive performance but is sensitive to hyperparameter tuning and historical data length.
